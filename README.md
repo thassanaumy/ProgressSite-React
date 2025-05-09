@@ -57,7 +57,7 @@ npm run preview
 ## Project Structure
 
 ```
-side-column-progress/
+ProgressSite/
 ├── index.html                  # HTML entry point
 ├── package.json                # Project dependencies and scripts
 ├── tsconfig.json               # TypeScript configuration
